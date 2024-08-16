@@ -1,2 +1,2 @@
 # tojislut.json
-rsrs
+["tojislut","tojislut","tojislut","tojislut","tojislut"]
